@@ -1,0 +1,11 @@
+Class Hello
+{
+public Static void main(String args[])
+{
+int n=10;
+foreach(int i to n )
+{
+System.out.println("Hello",+i);
+}
+}
+}
